@@ -51,7 +51,7 @@ Successful weaning is defined as the absence of reintubation within 48 hours of 
   - procedure_occurrence
   - visit_occurrence
   - concept
-- Started exploratory data analysis (EDA) on the `measurement` table
+- Started exploratory data analysis (EDA) on the `measurement` and `concept` tables
 - Investigating respiratory and ventilation-related concepts
 - Exploring timestamp structure and time-series density
 
